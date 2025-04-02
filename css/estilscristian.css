@@ -1,0 +1,134 @@
+/*Estils web*/
+
+body{
+	background-color:#DDD;
+	font-family:arial;
+	line-height: 35px;
+}
+figure{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	width:450px;
+	height:450px;
+	background:repeating-radial-gradient(circle at center,#99eee5 0 5%,#2f79ce 5% 10%);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:60%;
+}
+
+#contenidor{
+	background-color:#bdbdbd;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+#cap{
+	width:80%;
+	background:linear-gradient(to bottom, #ffffff, #3cff00, #ff0000);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:20px;
+	margin-bottom:5px;
+	}
+#caixaFlex{
+	margin:10px auto;
+	width: 60%;
+	display:flex;
+	flex-direction: row;
+}
+#principal{
+	width:80%;
+	background:linear-gradient(to bottom, #ffffff, #3cff00, #ff0000);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:20px;
+	margin-bottom:5px;
+	}
+#peu{
+	width:80%;
+	background:linear-gradient(to bottom, #ffffff, #3cff00, #ff0000);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+		border-radius:20px;
+
+	}
+#caixaFlex h1{
+	width:80%;
+	background-color:#bdbdbd;
+	color:rgb(255, 0, 0);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#caixaFlex img:first-child{
+	transform: scaleX(-1);
+}
+#principal h2{
+	width:60%;
+	background-color:rgb(175, 37, 157);
+	color:red;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+}
+#principal h3{
+	width:50%;
+	background-color:#C0DCFF;
+	color:rgb(255, 0, 0);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#peu h3{
+	width:50%;
+	background-color:#C0DCFF;
+	color:red;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#peu p{
+	width:70%;
+	color:red;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+	font-weight:bold;
+	background-color: #bdbdbd;
+}
+
+.imatge{
+	width:200px;
+	vertical-align:middle;
+	margin:auto auto;
+	border-radius:100px;
+}
+
+.logo{
+	width:100px;
+}
