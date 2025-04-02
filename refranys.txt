@@ -1,5 +1,5 @@
 00: A casa del meu veí, quan no n'hi ha per a pa, n'hi ha per a vi.
 01: A la vora del riu, no t'hi facis el niu.
 05: A cada porc vé el seu Sant Martí
-08: A poc a poc s'omple el sac.
+06: A poc a poc s'omple el sac.
 07: Camarón que se duerme, se lo lleva la corriente
