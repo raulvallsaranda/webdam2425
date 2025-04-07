@@ -1,0 +1,137 @@
+/*Estils web*/
+
+body{
+	background-color:rgb(254, 207, 215);
+	font-family:arial;
+	line-height: 35px;
+}
+figure{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	width:450px;
+	height:450px;
+	background:repeating-radial-gradient(circle at center,#ddbde6 0 5%,#d73cc5 5% 10%);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:60%;
+}
+
+#contenidor{
+	background-color:#cf93c2;
+	background:linear-gradient(to right, #ef93e9, #ffe8f4);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+#cap{
+	width:80%;
+	background:linear-gradient(#ef93e9,#ffe8f4);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:20px;
+	margin-bottom:5px;
+	}
+#caixaFlex{
+	margin:10px auto;
+	width: 60%;
+	display:flex;
+	flex-direction: row;
+}
+#principal{
+	width:80%;
+	background:linear-gradient(#ed89e0,#ffe2fd,#e96ddc);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:20px;
+	margin-bottom:5px;
+	}
+#peu{
+	width:80%;
+	background:linear-gradient(#d851c6,#f8d0f5);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+		border-radius:20px;
+
+	}
+#caixaFlex h1{
+	width:80%;
+	background-color:#b600b3;
+	color:rgb(255, 255, 255);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#caixaFlex img:first-child{
+	transform: scaleX(-1);
+}
+#principal h2{
+	width:60%;
+	background-color:rgb(210, 57, 192);
+	color:rgb(255, 255, 255);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+}
+#principal h3{
+	width:50%;
+	background-color:#ce8bbd;
+	color:rgb(255, 255, 255);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius: 15px;
+}
+#peu h3{
+	width:50%;
+	background-color:#b83d70;
+	color:rgb(255, 255, 255);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#peu p{
+	width:70%;
+	color:rgb(255, 255, 255);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+	font-weight:bold;
+	border-radius: 15px;
+	background:repeating-linear-gradient(45deg,#79064d 0 10%,#f155b8 10% 20%);
+}
+
+.imatge{
+	width:200px;
+	vertical-align:middle;
+	margin:auto auto;
+	border-radius:100px;
+}
+
+.logo{
+	width:100px;
+}
