@@ -8,3 +8,4 @@
 08: Gatos y niños siempre dicen: Mío mío.
 09: Como se vive, se muere.
 10: Más vale prevenir que curar.
+11: Al pan pan y al vino vino
